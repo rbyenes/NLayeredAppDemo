@@ -18,3 +18,5 @@ C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\System.
 C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.xml
 C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.xml

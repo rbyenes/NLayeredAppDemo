@@ -27,3 +27,5 @@ C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Syste
 C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
 C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\heyen\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml
